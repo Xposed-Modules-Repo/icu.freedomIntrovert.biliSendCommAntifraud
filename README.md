@@ -81,7 +81,7 @@ https://github.com/freedom-introvert/biliSendCommAntifraud/releases
 https://github.com/freedom-introvert/biliSendCommAntifraud
 ## 关于
 ### 讨论交流
-Telegram: [@biliSendCommAntifraud](https://t.me/biliSendCommAntifraud)
+Telegram: [@biliSendCommAntifraud](https://t.me/+6Ugpd4TtB8liZDg1)
 ### LOGO含义
 来自：Never Gonna Give You Up - Rick Astley  
 意为“发送成功”但是你被骗了🤪
